@@ -152,7 +152,7 @@ This analysis is **useful for**:
 
 ## 🔗 Connect & Follow
 📧 Email: [patildhananjay1307@gmail.com]  
-🔗 LinkedIn: [Dhananjay Patil](www.linkedin.com/in/dhananjay-patil-b25423315)  
+🔗 LinkedIn: [www.linkedin.com/in/dhananjay-patil-b25423315]  
 ---
 
 🔔 **If you find this project useful, don't forget to ⭐ star this repository!**  
